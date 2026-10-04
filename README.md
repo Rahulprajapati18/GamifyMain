@@ -4,7 +4,7 @@ Gamify is an **AI-powered gamified learning platform** designed to make educatio
 
 ## 🌐 Live Demo
 
-🚀 **[Visit Gamify Live]()**
+🚀 **[Visit Gamify Live](gamify-main-ten.vercel.app)**
 
 ## 📂 GitHub Repository
 
